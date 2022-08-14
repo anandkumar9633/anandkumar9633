@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Anand!</h1>
-<p> <img align="center" alt="gif" src="https://github.com/anandkumar9633/anandkumar9633/blob/main/readme_header.gif" width="900" height="300"/> </p>
+<p> <img align="center" alt="gif" src="https://github.com/anandkumar9633/anandkumar9633/blob/main/readme_header.gif" width="850" height="300"/> </p>
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=anandkumar9633&label=Profile%20views&color=0e75b6&style=flat" alt="anandkumar9633" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandkumar9633" alt="anandkumar9633" /></a> </p>

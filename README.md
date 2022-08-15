@@ -4,7 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandkumar9633" alt="anandkumar9633" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/anandku59549272" target="blank"><img src="https://img.shields.io/twitter/follow/anandku59549272?logo=twitter&style=for-the-badge" alt="anandku59549272" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://anandkumar9633.github.io/MY-PORTFOLIO/](https://anandkumar9633.github.io/MY-PORTFOLIO/)
 
